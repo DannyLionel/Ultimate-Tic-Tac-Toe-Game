@@ -1,6 +1,6 @@
 # Ultimate Tic Tac Toe Spring 2014
 
-Welcome to the README for Bluetab Interactive's game design project!
+Welcome to the README for Ultimate Tic Tac Toe Project!
 
 ### General Information
 
