@@ -18,6 +18,6 @@ unlike the original game, when you make a move to claim the center square
 the next move does not have to be in the same small tic-tax-toe board.
 
 ### Build
-Run the following:
-'''javac UltimateTicTacToe.java
-java UltimateTicTacToe'''
+Run the following in command line:
+```javac UltimateTicTacToe.java
+java UltimateTicTacToe ```
