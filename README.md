@@ -19,5 +19,5 @@ the next move does not have to be in the same small tic-tax-toe board.
 
 ### Build
 Run the following:
-'javac UltimateTicTacToe.java
-java UltimateTicTacToe'
+'''javac UltimateTicTacToe.java
+java UltimateTicTacToe'''
